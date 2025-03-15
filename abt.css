@@ -45,6 +45,9 @@
     text-align: center;
     text-decoration: none;
     align-self: center;
+    color: black;
+    font: caption;
+    size: 50px;
 }
 
 .p:hover{
@@ -52,6 +55,3 @@
     transition: all 0.3 ease;
 }
 
-.p:click{
-    navbar_logo:visible;
-}
