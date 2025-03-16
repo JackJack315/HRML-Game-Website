@@ -197,3 +197,14 @@
         transform: translateY(-8px) rotate(-45deg);
     }
 }
+
+li {
+    text-align: center;
+    margin-block: 50px;
+}
+
+
+li:hover {
+    color: red;
+}
+
